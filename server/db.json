@@ -1,0 +1,18 @@
+{
+  "users": [],
+  "categories": [],
+  "campaigns": [
+    {
+      "title": "",
+      "short_description": "",
+      "goal": "",
+      "amount": "",
+      "prefilled": "",
+      "video": "",
+      "content": "",
+      "startDate": "2023-09-07T03:11:58.759Z",
+      "endDate": "2023-09-07T03:11:58.759Z",
+      "id": 1
+    }
+  ]
+}
